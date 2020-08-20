@@ -1,0 +1,2 @@
+# ncrypto.co
+NCRYPTO Site

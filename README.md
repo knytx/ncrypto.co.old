@@ -1,2 +1,0 @@
-# ncrypto.co
-NCRYPTO Site
